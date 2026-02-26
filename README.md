@@ -165,31 +165,31 @@ Estimation budgétaire projet IT
 
 
 <p align="center">
-  <img src="screenshots/diagramme-classe.png" width="900"/>
+  <img src="modelisation/Capture d'écran 2026-02-26 150336.png"/>
 </p>
 
 <p align="center">
-  <img src="screenshots/diagramme-classe.png" width="900"/>
+  <img src="modelisation/Capture d'écran 2026-02-26 150556.png"/>
 </p>
 
 <p align="center">
-  <img src="screenshots/diagramme-classe.png" width="900"/>
+  <img src="modelisation/Capture d'écran 2026-02-26 150615.png"/>
 </p>
 
 <p align="center">
-  <img src="screenshots/diagramme-classe.png" width="900"/>
+  <img src="modelisation/Capture d'écran 2026-02-26 150655.png"/>
 </p>
 
 <p align="center">
-  <img src="screenshots/diagramme-classe.png" width="900"/>
+  <img src="modelisation/Capture d'écran 2026-02-26 150716.png"/>
 </p>
 
 <p align="center">
-  <img src="screenshots/diagramme-classe.png" width="900"/>
+  <img src="modelisation/Capture d'écran 2026-02-26 151058.png"/>
 </p>
 
 <p align="center">
-  <img src="screenshots/diagramme-classe.png" width="900"/>
+  <img src="modelisation/Capture d'écran 2026-02-26 151230.png"/>
 </p>
 
 
