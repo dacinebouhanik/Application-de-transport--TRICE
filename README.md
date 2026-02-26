@@ -1,6 +1,3 @@
-TRICE – Plateforme Intelligente de Gestion de Transport
-
-Projet de modélisation objet réalisé dans le cadre du module Modélisation UML – L3 CILS.
 
 TRICE est une plateforme numérique complète permettant de centraliser la gestion :
 
@@ -14,11 +11,11 @@ des contrôles en gare
 
 de l’administration du réseau
 
-Objectif du projet
+-Objectif du projet
 
 Concevoir une architecture complète et cohérente pour moderniser les services numériques du réseau de transport TRICE.
 
-Le projet couvre :
+-Le projet couvre :
 
 Analyse des besoins
 
@@ -44,8 +41,9 @@ Agent de gare
 
  Administrateur
 
- Fonctionnalités principales
-Client
+- Fonctionnalités principales
+  
+    -Client:
 
 Création de compte
 
@@ -61,7 +59,7 @@ Consultation d’itinéraire
 
 Maintien automatique réservation en cas de retard
 
- Agent de gare
+  - Agent de gare:
 
 Création compte client
 
@@ -71,7 +69,7 @@ Scan CNI
 
 Gestion maintenance stations
 
-Contrôleur
+  -Contrôleur:
 
 Scan carte
 
@@ -81,7 +79,7 @@ Vérification validité
 
 Vente ticket sur place
 
-Administrateur
+  -Administrateur:
 
 Gestion des comptes employés
 
@@ -91,9 +89,9 @@ Régénération mots de passe
 
 Supervision globale du système
 
- Architecture du système
+-Architecture du système
 
-Le système est structuré selon une architecture HLD en 6 zones :
+  -Le système est structuré selon une architecture HLD en 6 zones :
 
 Zone d’échange (API externes, paiements, transport)
 
@@ -107,9 +105,9 @@ Zone décisionnelle (statistiques, rapports)
 
 Zone sécurité (authentification, RGPD)
 
-Modélisation UML
+-Modélisation UML
 
-Le projet contient :
+  -Le projet contient :
 
 Diagramme de cas d’utilisation
 
@@ -121,13 +119,13 @@ Diagrammes de séquences
 
 Spécifications textuelles détaillées
 
- Budget estimatif
+-Budget estimatif
 
-Budget total estimé du projet :
+  -Budget total estimé du projet :
 
-229 100 €
+   229 100 €
 
-Répartition :
+  -Répartition :
 
 55% Coûts humains
 
@@ -139,17 +137,17 @@ Répartition :
 
 6% Infrastructure
 
-Maquettes & Prototype
+-Maquettes & Prototype:
 
-🔗 Figma – Design complet :
-https://www.figma.com/design/beYgGs0LRBiu2HeNdM3VZU/projet-trice-final
+  Figma – Design complet :
+  https://www.figma.com/design/beYgGs0LRBiu2HeNdM3VZU/projet-trice-final
 
-🔗 Prototype interactif :
-https://www.figma.com/proto/beYgGs0LRBiu2HeNdM3VZU/projet-trice-final
+   Prototype interactif :
+    https://www.figma.com/proto/beYgGs0LRBiu2HeNdM3VZU/projet-trice-final
 
 ⚠️Pour visualiser correctement : sélectionner iPhone 16 Pro Max.
 
- Outils utilisés
+-Outils utilisés:
 
 UML
 
@@ -159,7 +157,6 @@ Architecture HLD
 
 Analyse fonctionnelle
 
-Estimation budgétaire projet IT
 
 📸Aperçu du projet
 
@@ -193,7 +190,7 @@ Estimation budgétaire projet IT
 </p>
 
 
- Équipe
+ -Équipe:
 
 Dacine BOUHANIK – Responsable fonctionnel
 
